@@ -1,4 +1,4 @@
-Everything you need is in here. 
+Everything you need is in here.  All third party GEGL filters you make can follow this C file as a template.
 
 Credit goes to https://github.com/4Evergreen4/pixelsort for making most of this README markdown and
 making the first third party GEGL plugin that I am aware of.
