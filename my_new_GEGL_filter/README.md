@@ -42,5 +42,5 @@ meson setup --buildtype=release build
 ninja -C build
 ```
 
-
-
+### Final Note
+Please do not make third party filters that share the GEGL operation names of my existing filters. They will conflict if so.
