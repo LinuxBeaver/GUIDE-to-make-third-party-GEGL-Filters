@@ -1,4 +1,4 @@
-Everything you need is in here. 
+Making third party GEGL filters should not be practied until one has a good understanding of GEGL syntax. You can learn GEGL syntax at GEGL.org and on the Gimp Chat GEGL threads. All third party GEGL filters you make can follow this C file as a template. Just download GEGL's source code https://github.com/GNOME/gegl and Navigate to the directory Common to find all the filters and parameters of filters that you will need to define.
 
 Credit goes to https://github.com/4Evergreen4/pixelsort for making most of this README markdown and
 making the first third party GEGL plugin that I am aware of.
